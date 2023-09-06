@@ -2,3 +2,4 @@
 - Repositório dos certificados dos estudantes na plataforma code combat.
 - Repositório dinâmico e público.
 - O Professor é responsável por adicionar os Certificados/PDFs.
+- Vale 10 horas como atividade complementar.
